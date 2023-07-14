@@ -1,0 +1,20 @@
+body {
+  background-color: #0a0a23;
+}
+
+.contador {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title__contenedor {
+  color: #f5f6f7;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
